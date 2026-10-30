@@ -1,0 +1,3202 @@
+[
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f0.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f100.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f12.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f15.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f18.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f20.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f23.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f26.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f29.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f31.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f34.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f37.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f4.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f42.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f45.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f48.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f50.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f53.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f56.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f59.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f61.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f64.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f67.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f7.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f72.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f75.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f78.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f80.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f83.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f86.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f89.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f91.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f94.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v1f97.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f0.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f100.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f103.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f106.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f109.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f111.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f114.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f117.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f12.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f122.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f125.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f128.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f130.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f133.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f136.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f139.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f141.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f16.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f19.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f21.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f24.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f27.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f3.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f32.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f35.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f38.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f40.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f43.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f46.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f49.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f51.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f54.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f57.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f6.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f62.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f65.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f68.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f70.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f73.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f76.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f79.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f81.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f84.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f87.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f9.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f92.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f95.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs10v2f98.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f1.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f101.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f104.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f107.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f11.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f112.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f115.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f118.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f120.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f123.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f126.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f129.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f131.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f134.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f137.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f14.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f142.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f145.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f148.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f150.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f153.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f156.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f159.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f161.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f164.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f167.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f17.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f172.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f19.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f21.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f24.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f27.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f3.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f32.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f35.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f38.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f40.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f43.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f46.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f49.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f51.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f54.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f57.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f6.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f62.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f65.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f68.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f70.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f73.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f76.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f79.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f81.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f84.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f87.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f9.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f92.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f95.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v1f98.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f1.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f101.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f104.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f107.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f11.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f112.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f115.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f118.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f120.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f123.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f126.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f129.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f131.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f134.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f137.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f14.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f142.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f145.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f148.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f150.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f153.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f156.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f159.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f161.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f164.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f167.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f17.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f172.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f175.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f178.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f180.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f183.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f186.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f189.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f191.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f194.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f197.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f2.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f21.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f24.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f27.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f3.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f32.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f35.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f38.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f40.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f43.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f46.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f49.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f51.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f54.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f57.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f6.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f62.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f65.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f68.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f70.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f73.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f76.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f79.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f81.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f84.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f87.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f9.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f92.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f95.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs11v2f98.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f1.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f101.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f104.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f107.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f11.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f112.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f115.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f118.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f120.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f123.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f126.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f129.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f131.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f134.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f137.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f14.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f142.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f145.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f148.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f150.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f153.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f156.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f159.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f161.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f164.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f167.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f17.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f172.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f175.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f178.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f180.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f183.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f186.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f189.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f191.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f194.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f197.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f2.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f201.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f204.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f207.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f21.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f22.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f25.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f28.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f30.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f33.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f36.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f39.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f41.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f44.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f47.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f5.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f52.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f55.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f58.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f60.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f63.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f66.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\1\\bs12v1f69.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f1.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f101.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f13.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f16.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f19.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f21.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f24.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f27.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f3.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f32.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f35.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f38.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f40.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f43.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f46.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f49.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f51.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f54.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f57.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f6.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f62.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f65.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f68.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f70.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f73.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f76.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f79.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f81.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f84.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f87.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f9.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f92.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f95.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v1f98.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f1.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f101.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f104.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f107.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f11.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f112.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f115.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f118.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f120.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f123.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f126.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f129.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f131.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f134.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f137.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f14.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f142.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f17.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f2.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f22.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f25.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f28.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f30.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f33.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f36.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f39.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f41.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f44.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f47.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f5.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f52.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f55.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f58.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f60.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f63.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f66.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f69.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f71.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f74.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f77.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f8.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f82.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f85.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f88.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f90.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f93.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f96.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs10v2f99.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f10.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f102.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f105.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f108.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f110.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f113.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f116.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f119.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f121.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f124.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f127.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f13.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f132.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f135.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f138.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f140.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f143.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f146.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f149.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f151.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f154.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f157.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f16.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f162.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f165.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f168.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f170.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f173.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f2.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f22.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f25.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f28.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f30.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f33.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f36.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f39.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f41.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f44.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f47.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f5.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f52.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f55.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f58.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f60.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f63.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f66.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f69.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f71.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f74.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f77.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f8.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f82.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f85.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f88.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f90.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f93.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f96.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v1f99.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f10.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f102.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f105.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f108.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f110.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f113.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f116.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f119.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f121.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f124.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f127.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f13.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f132.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f135.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f138.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f140.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f143.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f146.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f149.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f151.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f154.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f157.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f16.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f162.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f165.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f168.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f170.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f173.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f176.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f179.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f181.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f184.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f187.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f19.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f192.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f195.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f198.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f20.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f22.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f25.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f28.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f30.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f33.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f36.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f39.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f41.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f44.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f47.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f5.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f52.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f55.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f58.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f60.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f63.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f66.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f69.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f71.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f74.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f77.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f8.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f82.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f85.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f88.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f90.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f93.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f96.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs11v2f99.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f10.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f102.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f105.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f108.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f110.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f113.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f116.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f119.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f121.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f124.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f127.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f13.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f132.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f135.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f138.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f140.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f143.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f146.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f149.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f151.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f154.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f157.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f16.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f162.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f165.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f168.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f170.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f173.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f176.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f179.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f181.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f184.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f187.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f19.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f192.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f195.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f198.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f20.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f202.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f205.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f208.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f210.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f23.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f26.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f29.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f31.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f34.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f37.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f4.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f42.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f45.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f48.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f50.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f53.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f56.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f59.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f61.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f64.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f67.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\2\\bs12v1f7.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f10.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f11.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f14.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f17.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f2.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f22.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f25.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f28.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f30.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f33.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f36.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f39.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f41.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f44.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f47.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f5.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f52.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f55.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f58.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f60.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f63.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f66.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f69.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f71.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f74.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f77.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f8.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f82.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f85.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f88.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f90.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f93.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f96.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v1f99.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f10.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f102.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f105.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f108.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f110.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f113.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f116.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f119.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f121.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f124.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f127.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f13.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f132.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f135.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f138.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f140.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f15.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f18.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f20.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f23.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f26.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f29.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f31.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f34.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f37.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f4.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f42.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f45.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f48.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f50.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f53.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f56.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f59.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f61.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f64.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f67.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f7.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f72.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f75.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f78.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f80.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f83.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f86.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f89.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f91.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f94.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs10v2f97.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f0.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f100.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f103.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f106.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f109.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f111.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f114.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f117.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f12.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f122.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f125.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f128.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f130.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f133.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f136.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f139.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f141.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f144.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f147.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f15.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f152.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f155.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f158.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f160.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f163.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f166.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f169.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f171.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f18.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f20.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f23.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f26.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f29.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f31.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f34.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f37.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f4.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f42.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f45.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f48.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f50.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f53.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f56.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f59.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f61.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f64.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f67.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f7.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f72.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f75.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f78.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f80.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f83.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f86.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f89.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f91.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f94.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v1f97.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f0.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f100.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f103.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f106.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f109.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f111.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f114.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f117.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f12.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f122.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f125.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f128.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f130.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f133.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f136.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f139.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f141.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f144.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f147.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f15.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f152.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f155.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f158.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f160.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f163.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f166.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f169.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f171.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f174.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f177.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f18.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f182.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f185.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f188.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f190.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f193.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f196.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f199.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f200.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f23.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f26.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f29.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f31.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f34.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f37.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f4.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f42.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f45.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f48.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f50.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f53.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f56.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f59.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f61.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f64.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f67.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f7.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f72.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f75.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f78.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f80.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f83.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f86.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f89.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f91.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f94.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs11v2f97.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f0.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f100.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f103.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f106.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f109.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f111.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f114.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f117.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f12.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f122.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f125.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f128.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f130.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f133.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f136.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f139.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f141.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f144.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f147.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f15.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f152.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f155.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f158.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f160.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f163.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f166.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f169.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f171.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f174.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f177.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f18.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f182.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f185.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f188.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f190.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f193.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f196.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f199.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f200.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f203.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f206.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f209.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f211.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f24.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f27.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f3.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f32.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f35.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f38.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f40.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f43.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f46.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f49.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f51.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f54.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f57.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f6.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f62.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f65.png",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\casia_256\\HR_1\\bs12v1f68.png",
+        "photo_label": 1
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "photo_path": "E:/SSDG_Processed_Data_MXNet/data/casia_256/1/bs10v1f0.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 0
+    },
+    {
+        "photo_path": "E:/SSDG_Processed_Data_MXNet/data/casia_256/2/bs10v1f1.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1
+    },
+    {
+        "photo_path": "E:/SSDG_Processed_Data_MXNet/data/casia_256/HR_1/bs11v1f0.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2
+    }
+]

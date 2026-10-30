@@ -1,0 +1,4002 @@
+[
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1425_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1601
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_833_20241130172945_A_close-up_shot_of_a_teenager_non-binary_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1602
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_675_20241130164709_A_close-up_shot_of_a_child_genderqueer_person_of_A_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1603
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_186_20241130143911_A_close-up_shot_of_a_child_male_person_of_Caucasia_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1604
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_564_20241130161636_A_close-up_shot_of_a_child_non-binary_person_of_Na_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1605
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_225_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1606
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_855_20241130173630_A_close-up_shot_of_a_middle-aged_male_person_of_Hi_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1607
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1972_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1608
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1218_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1609
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1104_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1610
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-123_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1611
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1296_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1612
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2053_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1613
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_687_20241130164941_A_close-up_shot_of_a_elderly_non-binary_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1614
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1266_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1615
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-899_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1616
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1545_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1617
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_372_20241130152435_A_close-up_shot_of_a_middle-aged_male_person_of_Af_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1618
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_717_20241130165556_A_close-up_shot_of_a_child_male_person_of_Mixed_ra_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1619
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-915_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1620
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-777_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1621
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2114_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1622
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_774_20241130171132_A_close-up_shot_of_a_young_adult_female_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1623
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1831_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1624
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_57_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1625
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-725_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1626
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1240_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1627
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2144_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1628
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_576_20241130162001_A_close-up_shot_of_a_middle-aged_non-binary_person_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1629
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1156_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1630
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-39_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1631
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-989_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1632
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_302_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1633
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_526_20241130160810_A_close-up_shot_of_a_young_adult_female_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1634
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1269_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1635
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_226_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1636
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1069_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1637
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_450_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1638
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-815_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1639
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_77_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1640
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1740_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1641
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_568_20241130161744_A_close-up_shot_of_a_elderly_female_person_of_Cauc_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1642
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_858_20241130173708_A_close-up_shot_of_a_teenager_genderqueer_person_o_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1643
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1418_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1644
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-976_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1645
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_845_20241130173332_A_close-up_shot_of_a_young_adult_female_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1646
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_577_20241130162011_A_close-up_shot_of_a_teenager_female_person_of_Pac_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1647
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_598_20241130162650_A_close-up_shot_of_a_middle-aged_female_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1648
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_281_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1649
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_571_20241130161839_A_close-up_shot_of_a_young_adult_non-binary_person_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1650
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-854_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1651
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_669_20241130164547_A_close-up_shot_of_a_child_female_person_of_Hispan_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1652
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1026_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1653
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1222_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1654
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2095_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1655
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1881_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1656
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_256_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1657
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-873_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1658
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-27_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1659
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_769_20241130171025_A_close-up_shot_of_a_middle-aged_genderqueer_perso_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1660
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2118_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1661
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_164_20241130143411_A_close-up_shot_of_a_child_genderqueer_person_of_C_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1662
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_820_20241130172511_A_close-up_shot_of_a_elderly_genderqueer_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1663
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_568_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1664
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1836_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1665
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-952_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1666
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1454_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1667
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1848_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1668
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2060_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1669
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1377_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1670
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_168_20241130143451_A_close-up_shot_of_a_elderly_male_person_of_Pacifi_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1671
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-829_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1672
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1150_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1673
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1176_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1674
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1372_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1675
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2074_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1676
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_63_20241130140946_A_close-up_shot_of_a_child_non-binary_person_of_Ca_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1677
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-957_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1678
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_460_20241130154859_A_close-up_shot_of_a_teenager_genderqueer_person_o_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1679
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1369_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1680
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_234_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1681
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_371_20241130152426_A_close-up_shot_of_a_child_genderqueer_person_of_H_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1682
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-25_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1683
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-902_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1684
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_604_20241130162837_A_close-up_shot_of_a_child_non-binary_person_of_As_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1685
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-755_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1686
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_617_20241130163254_A_close-up_shot_of_a_teenager_genderqueer_person_o_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1687
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-891_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1688
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_8_20241130135714_A_close-up_shot_of_a_young_adult_male_person_of_Af_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1689
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1339_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1690
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1088_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1691
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_396_20241130153117_A_close-up_shot_of_a_child_genderqueer_person_of_M_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1692
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_700_20241130165238_A_close-up_shot_of_a_child_genderqueer_person_of_H_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1693
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1014_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1694
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1169_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1695
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_116_20241130142214_A_close-up_shot_of_a_young_adult_non-binary_person_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1696
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1665_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1697
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_88_20241130141524_A_close-up_shot_of_a_child_male_person_of_Asian_de_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1698
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-73_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1699
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1785_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1700
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_506_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1701
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_59_20241130140855_A_close-up_shot_of_a_child_non-binary_person_of_Pa_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1702
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-782_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1703
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-945_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1704
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2132_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1705
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_458_20241130154823_A_close-up_shot_of_a_middle-aged_male_person_of_As_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1706
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_182_20241130143810_A_close-up_shot_of_a_teenager_female_person_of_Mix_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1707
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1039_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1708
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1748_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1709
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2093_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1710
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1444_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1711
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_456_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1712
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_186_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1713
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_292_20241130150705_A_close-up_shot_of_a_teenager_male_person_of_Hispa_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1714
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1260_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1715
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_326_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1716
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_362_20241130152247_A_close-up_shot_of_a_elderly_male_person_of_Middle_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1717
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_802_20241130171854_A_close-up_shot_of_a_teenager_non-binary_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1718
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1984_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1719
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_532_20241130160921_A_close-up_shot_of_a_child_genderqueer_person_of_C_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1720
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_406_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1721
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_20_20241130135952_A_close-up_shot_of_a_young_adult_female_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1722
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_249_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1723
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1052_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1724
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_615_20241130163218_A_close-up_shot_of_a_child_male_person_of_Native_A_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1725
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_10_20241130135752_A_close-up_shot_of_a_teenager_non-binary_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1726
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-838_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1727
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_229_20241130145000_A_close-up_shot_of_a_elderly_male_person_of_Native_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1728
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-907_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1729
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_660_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1730
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_493_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1731
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-953_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1732
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-844_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1733
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1352_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1734
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_567_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1735
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1365_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1736
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-926_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1737
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_37_20241130140344_A_close-up_shot_of_a_child_female_person_of_Africa_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1738
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1401_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1739
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-884_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1740
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-803_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1741
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_410_20241130153458_A_close-up_shot_of_a_elderly_non-binary_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1742
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-103_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1743
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_602_20241130162801_A_close-up_shot_of_a_teenager_female_person_of_Asi_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1744
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_808_20241130172115_A_close-up_shot_of_a_elderly_genderqueer_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1745
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1566_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1746
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-992_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1747
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_93_20241130141644_A_close-up_shot_of_a_young_adult_female_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1748
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1265_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1749
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-744_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1750
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_872_20241130174017_A_close-up_shot_of_a_elderly_non-binary_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1751
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1066_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1752
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_594_20241130162537_A_close-up_shot_of_a_young_adult_non-binary_person_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1753
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1981_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1754
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-63_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1755
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1328_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1756
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_219_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1757
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2007_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1758
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_804_20241130171938_A_close-up_shot_of_a_middle-aged_genderqueer_perso_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1759
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_627_20241130163546_A_close-up_shot_of_a_middle-aged_non-binary_person_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1760
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1547_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1761
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-977_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1762
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1869_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1763
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1755_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1764
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2119_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1765
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1838_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1766
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-776_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1767
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1253_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1768
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_301_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1769
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1971_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1770
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1442_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1771
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_166_20241130143426_A_close-up_shot_of_a_elderly_male_person_of_Africa_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1772
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_220_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1773
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-984_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1774
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1232_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1775
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_428_20241130153906_A_close-up_shot_of_a_elderly_genderqueer_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1776
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_281_20241130150450_A_close-up_shot_of_a_child_non-binary_person_of_Mi_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1777
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_440_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1778
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_171_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1779
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_721_20241130165642_A_close-up_shot_of_a_elderly_male_person_of_Middle_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1780
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1536_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1781
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-850_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1782
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_406_20241130153400_A_close-up_shot_of_a_elderly_genderqueer_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1783
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_350_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1784
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_796_20241130171707_A_close-up_shot_of_a_teenager_male_person_of_Afric_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1785
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2140_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1786
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_39_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1787
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1684_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1788
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_282_20241130150511_A_close-up_shot_of_a_middle-aged_female_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1789
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_501_20241130160101_A_close-up_shot_of_a_teenager_male_person_of_Middl_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1790
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1670_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1791
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_776_20241130171153_A_close-up_shot_of_a_teenager_female_person_of_His_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1792
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1305_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1793
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_49_20241130140644_A_close-up_shot_of_a_middle-aged_genderqueer_perso_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1794
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1450_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1795
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1292_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1796
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1721_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1797
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1380_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1798
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_560_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1799
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_531_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1800
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_548_20241130161243_A_close-up_shot_of_a_child_male_person_of_Middle_E_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1801
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_525_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1802
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_432_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1803
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_444_20241130154410_A_close-up_shot_of_a_young_adult_non-binary_person_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1804
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-813_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1805
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1254_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1806
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1215_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1807
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_572_20241130161856_A_close-up_shot_of_a_teenager_male_person_of_Asian_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1808
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_8_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1809
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_797_20241130171721_A_close-up_shot_of_a_middle-aged_non-binary_person_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1810
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_353_20241130152046_A_close-up_shot_of_a_elderly_genderqueer_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1811
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1091_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1812
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2120_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1813
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_652_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1814
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1023_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1815
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_23_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1816
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_585_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1817
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1899_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1818
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_271_20241130150214_A_close-up_shot_of_a_elderly_genderqueer_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1819
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_361_20241130152233_A_close-up_shot_of_a_middle-aged_male_person_of_Pa_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1820
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1493_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1821
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_842_20241130173250_A_close-up_shot_of_a_teenager_male_person_of_Hispa_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1822
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_118_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1823
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_243_20241130145428_A_close-up_shot_of_a_teenager_non-binary_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1824
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-975_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1825
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_388_20241130152854_A_close-up_shot_of_a_elderly_genderqueer_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1826
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_501_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1827
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_695_20241130165141_A_close-up_shot_of_a_child_male_person_of_Pacific__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1828
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_252_20241130145653_A_close-up_shot_of_a_young_adult_non-binary_person_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1829
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_699_20241130165228_A_close-up_shot_of_a_young_adult_male_person_of_Ca_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1830
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_968_20241130180135_A_close-up_shot_of_a_middle-aged_male_person_of_As_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1831
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-41_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1832
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1186_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1833
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-111_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1834
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1366_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1835
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_537_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1836
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_364_20241130152312_A_close-up_shot_of_a_elderly_female_person_of_Midd_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1837
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1350_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1838
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_476_20241130155350_A_close-up_shot_of_a_middle-aged_female_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1839
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1950_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1840
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2100_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1841
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_128_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1842
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_628_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1843
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_288_20241130150622_A_close-up_shot_of_a_child_genderqueer_person_of_H_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1844
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_73_20241130141203_A_close-up_shot_of_a_young_adult_genderqueer_perso_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1845
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1567_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1846
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-138_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1847
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_373_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1848
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_939_20241130175445_A_close-up_shot_of_a_child_non-binary_person_of_As_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1849
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_746_20241130170410_A_close-up_shot_of_a_middle-aged_female_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1850
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_248_20241130145534_A_close-up_shot_of_a_teenager_male_person_of_Hispa_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1851
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_849_20241130173431_A_close-up_shot_of_a_middle-aged_female_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1852
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_331_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1853
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-768_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1854
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_38_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1855
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_206_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1856
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2135_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1857
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2032_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1858
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1051_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1859
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_261_20241130145902_A_close-up_shot_of_a_elderly_male_person_of_Native_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1860
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_201_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1861
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_787_20241130171433_A_close-up_shot_of_a_elderly_non-binary_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1862
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_983_20241130180511_A_close-up_shot_of_a_child_non-binary_person_of_Af_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1863
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_391_20241130152941_A_close-up_shot_of_a_middle-aged_female_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1864
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1094_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1865
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1779_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1866
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_735_20241130170022_A_close-up_shot_of_a_elderly_non-binary_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1867
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_646_20241130164059_A_close-up_shot_of_a_young_adult_genderqueer_perso_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1868
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-18_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1869
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_899_20241130174629_A_close-up_shot_of_a_child_female_person_of_Hispan_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1870
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_800_20241130171800_A_close-up_shot_of_a_child_female_person_of_Caucas_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1871
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_416_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1872
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1171_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1873
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1370_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1874
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_592_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1875
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_316_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1876
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_35_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1877
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_581_20241130162116_A_close-up_shot_of_a_young_adult_female_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1878
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-48_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1879
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1259_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1880
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-897_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1881
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1107_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1882
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1794_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1883
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_187_20241130143925_A_close-up_shot_of_a_middle-aged_female_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1884
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1286_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1885
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_433_20241130154029_A_close-up_shot_of_a_elderly_female_person_of_Midd_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1886
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1706_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1887
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_921_20241130175052_A_close-up_shot_of_a_child_genderqueer_person_of_M_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1888
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1306_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1889
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1474_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1890
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1320_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1891
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_586_20241130162251_A_close-up_shot_of_a_young_adult_female_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1892
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_2_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1893
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1092_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1894
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1986_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1895
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_478_20241130155434_A_close-up_shot_of_a_middle-aged_non-binary_person_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1896
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1571_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1897
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-762_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1898
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_585_20241130162231_A_close-up_shot_of_a_young_adult_genderqueer_perso_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1899
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1083_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1900
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1212_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1901
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-781_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1902
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2024_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1903
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_173_20241130143541_A_close-up_shot_of_a_middle-aged_non-binary_person_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1904
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-859_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1905
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_692_20241130165105_A_close-up_shot_of_a_child_genderqueer_person_of_A_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1906
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2139_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1907
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_996_20241130180754_A_close-up_shot_of_a_child_female_person_of_Mixed__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1908
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_134_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1909
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1593_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1910
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1353_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1911
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-68_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1912
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-805_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1913
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_89_20241130141546_A_close-up_shot_of_a_elderly_male_person_of_Caucas_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1914
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1440_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1915
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_465_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1916
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-144_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1917
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1963_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1918
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1152_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1919
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2068_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1920
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-855_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1921
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-866_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1922
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_693_20241130165118_A_close-up_shot_of_a_elderly_female_person_of_Midd_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1923
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_315_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1924
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_151_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1925
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1140_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1926
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1749_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1927
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_634_20241130163802_A_close-up_shot_of_a_teenager_non-binary_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1928
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_969_20241130180150_A_close-up_shot_of_a_teenager_genderqueer_person_o_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1929
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1850_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1930
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_730_20241130165853_A_close-up_shot_of_a_middle-aged_non-binary_person_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1931
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_531_20241130160912_A_close-up_shot_of_a_elderly_non-binary_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1932
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_321_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1933
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1996_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1934
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1319_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1935
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_550_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1936
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1392_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1937
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_497_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1938
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_360_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1939
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1068_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1940
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1657_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1941
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1957_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1942
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_145_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1943
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-143_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1944
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1495_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1945
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_219_20241130144735_A_close-up_shot_of_a_elderly_male_person_of_Native_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1946
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-732_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1947
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1705_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1948
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-785_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1949
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_499_20241130160025_A_close-up_shot_of_a_teenager_female_person_of_Pac_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1950
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2079_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1951
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_336_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1952
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_554_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1953
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_355_20241130152116_A_close-up_shot_of_a_middle-aged_female_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1954
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_792_20241130171543_A_close-up_shot_of_a_child_female_person_of_Africa_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1955
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1652_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1956
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1636_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1957
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_191_20241130144045_A_close-up_shot_of_a_teenager_female_person_of_Mix_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1958
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_651_20241130164215_A_close-up_shot_of_a_teenager_genderqueer_person_o_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1959
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_478_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1960
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_126_20241130142452_A_close-up_shot_of_a_elderly_male_person_of_Middle_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1961
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1313_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1962
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_348_20241130151956_A_close-up_shot_of_a_teenager_non-binary_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1963
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_917_20241130175014_A_close-up_shot_of_a_young_adult_male_person_of_Mi_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1964
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1977_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1965
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_576_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1966
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-10_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1967
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_48_20241130140629_A_close-up_shot_of_a_middle-aged_genderqueer_perso_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1968
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-32_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1969
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_633_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1970
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_107_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1971
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1221_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1972
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_217_20241130144706_A_close-up_shot_of_a_child_male_person_of_Pacific__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1973
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1209_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1974
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1686_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1975
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1690_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1976
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1223_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1977
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1055_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1978
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_543_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1979
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-922_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1980
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-746_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1981
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1048_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1982
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1772_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1983
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_96_20241130141720_A_close-up_shot_of_a_young_adult_genderqueer_perso_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1984
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-979_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1985
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2055_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1986
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_153_20241130143140_A_close-up_shot_of_a_teenager_non-binary_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1987
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_161_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1988
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2160_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1989
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_313_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1990
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1375_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1991
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1481_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1992
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1806_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1993
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_260_20241130145852_A_close-up_shot_of_a_middle-aged_genderqueer_perso_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 1994
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-912_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1995
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-16_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1996
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-821_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1997
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-929_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1998
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2005_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 1999
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1626_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2000
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1826_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2001
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_4_20241130135641_A_close-up_shot_of_a_young_adult_genderqueer_perso_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2002
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1483_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2003
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-136_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2004
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2115_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2005
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_998_20241130180822_A_close-up_shot_of_a_middle-aged_non-binary_person_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2006
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1840_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2007
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1559_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2008
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_35_20241130140313_A_close-up_shot_of_a_young_adult_male_person_of_Na_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2009
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-117_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2010
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_207_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2011
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_276_20241130150326_A_close-up_shot_of_a_child_genderqueer_person_of_M_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2012
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2061_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2013
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_444_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2014
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-998_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2015
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_98_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2016
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1242_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2017
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1581_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2018
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1409_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2019
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_418_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2020
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1128_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2021
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_143_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2022
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-101_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2023
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1906_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2024
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_99_20241130141808_A_close-up_shot_of_a_teenager_male_person_of_Pacif_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2025
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_284_20241130150537_A_close-up_shot_of_a_teenager_non-binary_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2026
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_373_20241130152452_A_close-up_shot_of_a_teenager_non-binary_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2027
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1605_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2028
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_6_20241130135656_A_close-up_shot_of_a_child_genderqueer_person_of_M_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2029
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_86_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2030
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_561_20241130161533_A_close-up_shot_of_a_child_genderqueer_person_of_M_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2031
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_919_20241130175036_A_close-up_shot_of_a_teenager_non-binary_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2032
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_607_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2033
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2062_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2034
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1577_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2035
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1776_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2036
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-783_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2037
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1303_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2038
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_755_20241130170616_A_close-up_shot_of_a_elderly_male_person_of_Caucas_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2039
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_339_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2040
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1054_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2041
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1698_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2042
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_314_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2043
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1818_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2044
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_525_20241130160752_A_close-up_shot_of_a_middle-aged_male_person_of_Mi_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2045
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1611_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2046
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_272_20241130150229_A_close-up_shot_of_a_middle-aged_female_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2047
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_464_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2048
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_496_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2049
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_131_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2050
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1975_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2051
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_765_20241130170913_A_close-up_shot_of_a_elderly_genderqueer_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2052
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_103_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2053
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1743_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2054
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1084_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2055
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-15_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2056
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_278_20241130150404_A_close-up_shot_of_a_teenager_male_person_of_Pacif_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2057
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_690_20241130165030_A_close-up_shot_of_a_child_non-binary_person_of_As_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2058
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1765_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2059
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1660_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2060
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-856_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2061
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_354_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2062
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1443_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2063
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1396_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2064
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1641_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2065
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1430_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2066
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1692_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2067
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1732_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2068
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2070_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2069
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_514_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2070
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_484_20241130155637_A_close-up_shot_of_a_young_adult_non-binary_person_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2071
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1993_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2072
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_338_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2073
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1108_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2074
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2081_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2075
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_646_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2076
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_949_20241130175713_A_close-up_shot_of_a_teenager_female_person_of_Nat_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2077
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1238_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2078
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1080_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2079
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-133_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2080
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_37_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2081
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1139_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2082
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1256_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2083
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_313_20241130151120_A_close-up_shot_of_a_child_genderqueer_person_of_M_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2084
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1243_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2085
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_926_20241130175151_A_close-up_shot_of_a_elderly_female_person_of_Afri_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2086
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2148_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2087
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1485_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2088
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_383_20241130152730_A_close-up_shot_of_a_teenager_female_person_of_Nat_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2089
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-112_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2090
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_696_20241130165154_A_close-up_shot_of_a_child_genderqueer_person_of_C_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2091
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_494_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2092
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2040_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2093
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_826_20241130172702_A_close-up_shot_of_a_teenager_genderqueer_person_o_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2094
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-12_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2095
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_324_20241130151336_A_close-up_shot_of_a_young_adult_genderqueer_perso_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2096
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_915_20241130174948_A_close-up_shot_of_a_young_adult_genderqueer_perso_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2097
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_272_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2098
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-769_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2099
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_256_20241130145753_A_close-up_shot_of_a_elderly_genderqueer_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2100
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-949_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2101
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_4_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2102
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1590_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2103
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_190_20241130144013_A_close-up_shot_of_a_elderly_female_person_of_Cauc_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2104
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1613_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2105
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_11_20241130135805_A_close-up_shot_of_a_middle-aged_male_person_of_Mi_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2106
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1373_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2107
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_809_20241130172137_A_close-up_shot_of_a_young_adult_female_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2108
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_749_20241130170459_A_close-up_shot_of_a_young_adult_male_person_of_Hi_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2109
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1228_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2110
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1331_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2111
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1255_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2112
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_275_20241130150307_A_close-up_shot_of_a_middle-aged_non-binary_person_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2113
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1379_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2114
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_906_20241130174751_A_close-up_shot_of_a_elderly_male_person_of_Africa_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2115
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1187_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2116
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_339_20241130151740_A_close-up_shot_of_a_teenager_non-binary_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2117
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_199_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2118
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1073_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2119
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1793_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2120
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1541_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2121
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_606_20241130162904_A_close-up_shot_of_a_child_genderqueer_person_of_M_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2122
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1866_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2123
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1397_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2124
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1807_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2125
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_105_20241130141930_A_close-up_shot_of_a_elderly_male_person_of_Asian__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2126
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_222_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2127
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-791_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2128
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_586_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2129
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_179_20241130143715_A_close-up_shot_of_a_teenager_non-binary_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2130
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1592_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2131
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-965_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2132
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_320_20241130151247_A_close-up_shot_of_a_teenager_genderqueer_person_o_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2133
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-88_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2134
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_488_20241130155748_A_close-up_shot_of_a_elderly_female_person_of_Cauc_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2135
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_566_20241130161715_A_close-up_shot_of_a_child_male_person_of_African__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2136
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_305_20241130150949_A_close-up_shot_of_a_teenager_female_person_of_Nat_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2137
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1354_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2138
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-925_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2139
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_50_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2140
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_590_20241130162417_A_close-up_shot_of_a_young_adult_female_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2141
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_131_20241130142613_A_close-up_shot_of_a_young_adult_genderqueer_perso_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2142
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_234_20241130145151_A_close-up_shot_of_a_elderly_male_person_of_Hispan_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2143
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_980_20241130180432_A_close-up_shot_of_a_child_non-binary_person_of_As_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2144
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-731_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2145
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_626_20241130163525_A_close-up_shot_of_a_middle-aged_genderqueer_perso_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2146
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_102_20241130141854_A_close-up_shot_of_a_middle-aged_male_person_of_Mi_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2147
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-894_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2148
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-889_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2149
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1948_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2150
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1389_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2151
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1619_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2152
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_277_20241130150346_A_close-up_shot_of_a_teenager_male_person_of_Middl_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2153
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_785_20241130171407_A_close-up_shot_of_a_teenager_non-binary_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2154
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_114_20241130142134_A_close-up_shot_of_a_child_non-binary_person_of_Mi_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2155
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_649_20241130164150_A_close-up_shot_of_a_elderly_genderqueer_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2156
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-847_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2157
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1628_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2158
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1939_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2159
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1563_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2160
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_629_20241130163634_A_close-up_shot_of_a_middle-aged_non-binary_person_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2161
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1005_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2162
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1798_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2163
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1804_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2164
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-139_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2165
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1341_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2166
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1639_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2167
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-936_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2168
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-86_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2169
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_307_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2170
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_446_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2171
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_954_20241130175829_A_close-up_shot_of_a_young_adult_female_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2172
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_385_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2173
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_64_20241130140955_A_close-up_shot_of_a_teenager_non-binary_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2174
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1630_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2175
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_163_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2176
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_190_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2177
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1258_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2178
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1936_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2179
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2003_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2180
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-978_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2181
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-87_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2182
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1177_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2183
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1400_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2184
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_22_20241130140020_A_close-up_shot_of_a_elderly_male_person_of_Caucas_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2185
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_903_20241130174718_A_close-up_shot_of_a_teenager_genderqueer_person_o_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2186
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_647_20241130164116_A_close-up_shot_of_a_young_adult_genderqueer_perso_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2187
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1463_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2188
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_967_20241130180120_A_close-up_shot_of_a_elderly_male_person_of_Africa_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2189
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_759_20241130170735_A_close-up_shot_of_a_child_non-binary_person_of_As_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2190
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1040_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2191
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_536_20241130161019_A_close-up_shot_of_a_young_adult_female_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2192
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_414_20241130153555_A_close-up_shot_of_a_elderly_female_person_of_Asia_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2193
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1007_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2194
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1045_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2195
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1072_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2196
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_974_20241130180310_A_close-up_shot_of_a_teenager_genderqueer_person_o_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2197
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-13_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2198
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-749_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2199
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1044_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2200
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_238_20241130145253_A_close-up_shot_of_a_child_non-binary_person_of_Mi_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2201
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-90_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2202
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2078_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2203
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1134_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2204
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1314_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2205
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_399_20241130153201_A_close-up_shot_of_a_child_female_person_of_Middle_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2206
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_48_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2207
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1041_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2208
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_331_20241130151529_A_close-up_shot_of_a_teenager_non-binary_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2209
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_729_20241130165839_A_close-up_shot_of_a_elderly_female_person_of_Nati_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2210
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1257_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2211
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_661_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2212
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_346_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2213
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_632_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2214
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1811_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2215
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_609_20241130163004_A_close-up_shot_of_a_teenager_non-binary_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2216
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_389_20241130152907_A_close-up_shot_of_a_child_non-binary_person_of_Mi_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2217
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_192_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2218
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_80_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2219
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_77_20241130141251_A_close-up_shot_of_a_young_adult_male_person_of_Ca_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2220
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_470_20241130155144_A_close-up_shot_of_a_teenager_female_person_of_Afr_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2221
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_606_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2222
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1378_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2223
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_828_20241130172743_A_close-up_shot_of_a_middle-aged_male_person_of_Mi_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2224
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1204_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2225
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1030_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2226
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_298_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2227
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1893_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2228
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_731_20241130165909_A_close-up_shot_of_a_teenager_male_person_of_Pacif_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2229
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_328_20241130151435_A_close-up_shot_of_a_teenager_male_person_of_Hispa_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2230
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_158_20241130143231_A_close-up_shot_of_a_child_non-binary_person_of_Na_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2231
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_870_20241130173939_A_close-up_shot_of_a_young_adult_male_person_of_Ca_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2232
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1678_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2233
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1633_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2234
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1974_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2235
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_836_20241130173056_A_close-up_shot_of_a_elderly_genderqueer_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2236
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_477_20241130155412_A_close-up_shot_of_a_middle-aged_male_person_of_Af_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2237
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1583_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2238
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-924_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2239
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1857_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2240
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1415_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2241
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_960_20241130180002_A_close-up_shot_of_a_middle-aged_male_person_of_Ca_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2242
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2164_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2243
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_228_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2244
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1761_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2245
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_423_20241130153806_A_close-up_shot_of_a_young_adult_male_person_of_Hi_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2246
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2034_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2247
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1363_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2248
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2008_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2249
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1009_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2250
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1455_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2251
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1032_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2252
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_347_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2253
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_366_20241130152335_A_close-up_shot_of_a_middle-aged_female_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2254
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_377_20241130152555_A_close-up_shot_of_a_elderly_female_person_of_Hisp_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2255
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_599_20241130162714_A_close-up_shot_of_a_teenager_male_person_of_Hispa_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2256
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1479_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2257
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_269_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2258
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-132_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2259
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_249_20241130145557_A_close-up_shot_of_a_child_non-binary_person_of_Na_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2260
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_267_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2261
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-800_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2262
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_172_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2263
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1394_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2264
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_247_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2265
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1112_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2266
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_679_20241130164806_A_close-up_shot_of_a_middle-aged_male_person_of_Af_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2267
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1737_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2268
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-69_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2269
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1126_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2270
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_31_20241130140225_A_close-up_shot_of_a_young_adult_non-binary_person_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2271
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_623_20241130163436_A_close-up_shot_of_a_teenager_female_person_of_Afr_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2272
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_930_20241130175249_A_close-up_shot_of_a_middle-aged_genderqueer_perso_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2273
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1961_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2274
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1220_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2275
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1468_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2276
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_994_20241130180727_A_close-up_shot_of_a_child_female_person_of_Mixed__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2277
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_631_20241130163707_A_close-up_shot_of_a_teenager_male_person_of_Middl_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2278
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1603_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2279
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_970_20241130180206_A_close-up_shot_of_a_teenager_female_person_of_His_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2280
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_513_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2281
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1956_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2282
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-826_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2283
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_341_20241130151801_A_close-up_shot_of_a_middle-aged_non-binary_person_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2284
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2127_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2285
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_364_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2286
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1875_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2287
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1587_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2288
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_357_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2289
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-33_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2290
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1656_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2291
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1441_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2292
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1859_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2293
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1345_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2294
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1598_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2295
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_203_20241130144354_A_close-up_shot_of_a_elderly_non-binary_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2296
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_382_20241130152702_A_close-up_shot_of_a_middle-aged_non-binary_person_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2297
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1667_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2298
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-886_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2299
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1812_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2300
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_622_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2301
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1308_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2302
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1623_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2303
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_657_20241130164319_A_close-up_shot_of_a_young_adult_non-binary_person_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2304
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1710_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2305
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_368_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2306
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_470_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2307
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-778_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2308
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1898_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2309
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_213_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2310
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_638_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2311
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_574_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2312
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_408_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2313
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_958_20241130175935_A_close-up_shot_of_a_child_non-binary_person_of_Af_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2314
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_469_20241130155116_A_close-up_shot_of_a_elderly_female_person_of_Asia_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2315
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_407_20241130153409_A_close-up_shot_of_a_middle-aged_genderqueer_perso_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2316
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_72_20241130141148_A_close-up_shot_of_a_middle-aged_male_person_of_Ca_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2317
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_979_20241130180415_A_close-up_shot_of_a_middle-aged_genderqueer_perso_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2318
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-932_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2319
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1449_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2320
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1173_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2321
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_368_20241130152356_A_close-up_shot_of_a_child_female_person_of_Pacifi_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2322
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1315_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2323
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_78_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2324
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_892_20241130174512_A_close-up_shot_of_a_child_male_person_of_Caucasia_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2325
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_148_20241130143047_A_close-up_shot_of_a_middle-aged_female_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2326
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_152_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2327
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_43_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2328
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_16_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2329
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1372_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2330
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_283_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2331
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_308_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2332
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_612_20241130163112_A_close-up_shot_of_a_young_adult_genderqueer_perso_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2333
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-37_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2334
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_505_20241130160222_A_close-up_shot_of_a_elderly_female_person_of_Afri_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2335
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-722_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2336
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1687_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2337
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_191_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2338
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1764_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2339
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1600_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2340
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1025_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2341
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1203_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2342
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1189_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2343
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_254_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2344
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_36_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2345
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-817_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2346
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_551_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2347
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_269_20241130150129_A_close-up_shot_of_a_elderly_genderqueer_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2348
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_656_20241130164309_A_close-up_shot_of_a_teenager_non-binary_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2349
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1428_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2350
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_611_20241130163037_A_close-up_shot_of_a_teenager_genderqueer_person_o_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2351
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_732_20241130165925_A_close-up_shot_of_a_elderly_non-binary_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2352
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1429_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2353
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1011_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2354
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-46_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2355
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_723_20241130165703_A_close-up_shot_of_a_middle-aged_non-binary_person_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2356
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1827_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2357
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1760_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2358
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1138_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2359
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_549_20241130161253_A_close-up_shot_of_a_child_female_person_of_Middle_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2360
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1757_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2361
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_0_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2362
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1775_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2363
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1065_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2364
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_908_20241130174811_A_close-up_shot_of_a_elderly_female_person_of_Cauc_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2365
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_677_20241130164737_A_close-up_shot_of_a_young_adult_non-binary_person_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2366
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1892_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2367
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_149_20241130143057_A_close-up_shot_of_a_child_genderqueer_person_of_A_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2368
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_484_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2369
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_410_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2370
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_322_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2371
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_923_20241130175112_A_close-up_shot_of_a_middle-aged_non-binary_person_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2372
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1164_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2373
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_547_20241130161229_A_close-up_shot_of_a_teenager_genderqueer_person_o_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2374
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2001_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2375
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_71_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2376
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_895_20241130174544_A_close-up_shot_of_a_elderly_female_person_of_Midd_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2377
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2155_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2378
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-2116_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2379
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-142_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2380
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1056_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2381
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1132_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2382
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_751_20241130170519_A_close-up_shot_of_a_elderly_female_person_of_Midd_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2383
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_454_20241130154658_A_close-up_shot_of_a_middle-aged_genderqueer_perso_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2384
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_624_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2385
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_91_20241130141628_A_close-up_shot_of_a_middle-aged_non-binary_person_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2386
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-739_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2387
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1364_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2388
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1284_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2389
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1110_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2390
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1555_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2391
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_non-child-1237_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2392
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_840_20241130173158_A_close-up_shot_of_a_middle-aged_female_person_of__jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2393
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1634_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2394
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_469_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2395
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_739_20241130170149_A_close-up_shot_of_a_elderly_male_person_of_Hispan_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2396
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_face_323_jpg.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2397
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\real_child-1375_png.png",
+        "photo_label": 1,
+        "photo_belong_to_video_ID": 2398
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_434_20241130154044_A_close-up_shot_of_a_young_adult_male_person_of_Hi_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2399
+    },
+    {
+        "photo_path": "E:\\SSDG_Processed_Data_MXNet\\data\\ai_256\\AI_441_20241130154308_A_close-up_shot_of_a_teenager_non-binary_person_of_jpg.png",
+        "photo_label": 0,
+        "photo_belong_to_video_ID": 2400
+    }
+]
